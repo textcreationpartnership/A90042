@@ -1,0 +1,298 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new years-gift, or A token of love to all persons of what perswasion soever. By a Friend, and lover of all men.</title>
+            <author>Friend and lover of all men.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90042</idno>
+            <idno type="STC">Wing N813A</idno>
+            <idno type="STC">ESTC R231377</idno>
+            <idno type="EEBO-CITATION">99899786</idno>
+            <idno type="PROQUEST">99899786</idno>
+            <idno type="VID">135213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135213)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2446:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new years-gift, or A token of love to all persons of what perswasion soever. By a Friend, and lover of all men.</title>
+                  <author>Friend and lover of all men.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Whitledge over against the Hatt and Feather, on Addle-hill, near Doctors-Commons,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+               <term>Devotional literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135213:1" rendition="simple:additions"/>
+            <head>A New Years-Gift, OR A <hi>Token of Love,</hi> To all Perſons of what PERSWASION ſoever.</head>
+            <byline>By a Friend, and Lover of all Men.</byline>
+            <p>REflecting with my ſelf, that the All-wiſe God, who doth nothing in vain, hath given ſome Talents more or leſs to all Mankind, to Traffick withal, but eſpe<g ref="char:EOLhyphen"/>cially to thoſe that live under the Goſpel; and conſidering that he who had received but one, was called to an account for it, as well as he that had received five, and the terrible and juſt Sentence pronounced againſt the unprofitable Ser<g ref="char:EOLhyphen"/>vant, that had not employ'd his Talent for his Lords uſe, I tremble at the thoughts of it, and in the ſenſe thereof, am made to reflect what I have done for the glory of my Lord, with that one Talent which his Free Grace hath beſtow'd upon me; and finding how unprofitable a Servant I have been with it hitherto, I am moved (I truſt by the Spirit of Grace) to delay no longer, but to improve my Talent as
+<pb n="2" facs="tcp:135213:2"/>
+well as I can, for the glory of my Lord. And alſo that by my Example, the meaneſt may be encouraged to employ and improve the leaſt meaſure of Grace and Knowledge beſtow'd upon them, for God's glory and our mutual Com<g ref="char:EOLhyphen"/>fort and Edification. <note place="margin">Exod. 25. 2, 3, 4, 5.</note> We read in God's Word, <hi>That God commanded</hi> Moſes <hi>to ſpeak to the Children of</hi> Iſrael, <hi>to bring every one his Offering, and to take the ſame of every Man that ſhould give it willingly with his heart,</hi> not only, <hi>Gold, Silver, Blue Purple, Scarlet, fine Linnen,</hi> and <hi>pretious Stones,</hi> &amp;c. all coſtly Things, and Offerings, proper for the <hi>Rich;</hi> but alſo <hi>Rams,</hi> and <hi>Badgers Skins,</hi> and <hi>Goats Hair,</hi> which were Gifts accommodated to the Ability of the <hi>Poor;</hi> the mean<g ref="char:EOLhyphen"/>eſt Offering of the People, that was preſented with a willing heart, being as well accepted by God, as the moſt ſumptu<g ref="char:EOLhyphen"/>ous Gifts of the <hi>Rich.</hi> Which may be a great Encourage<g ref="char:EOLhyphen"/>ment even to thoſe that have but the leaſt meaſure of grace, to endeavour to improve and lay it out for the glory of God, and the good of their Neighbour. And accordingly we ſee, that our Saviour alſo accepted and commended the <hi>two Mites of the Poor VViddow,</hi> 
+               <note place="margin">Luke 21. 2, 3, 4.</note> above all the Oblations of the Rich and Wealthy.</p>
+            <p>Wherefore, I hope, that this my poor <hi>Mite</hi> will be ac<g ref="char:EOLhyphen"/>cepted, not only by my great Lord and Maſter, but alſo by Men of good will, ſince I truſt, I have no other End, but his Glory and the good of poor Souls, who may ſtand in need as well as I, to be put in mind, not to wrap up their Ma<g ref="char:EOLhyphen"/>ſters Talent in a Napkin. Give me leave therefore to deli<g ref="char:EOLhyphen"/>ver here what ſhall riſe in my mind, in a plain and ſimple ſtile, and ſuitable to my meanneſs, who am without Learn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>And in the firſt place, I will begin with that which I have had a long time on my heart, <hi>viz.</hi> to tell the world I am in charity with all Men, through that Spark of divine Love I have received in my heart, but more eſpecially with thoſe that love the Lord, and ſeek his Glory in all their Actions, of whatſoever Perſuaſion they are: For love is not a Sect
+<pb n="3" facs="tcp:135213:2"/>
+or an Opinion, but a fruitful Mother full of Bowels of Mer<g ref="char:EOLhyphen"/>cy, that comprehendeth all, but chiefly thoſe of her own Boſom, and afterwards thoſe that are without, whether <hi>Jews</hi> or <hi>Gentiles,</hi> and takes them in alſo. Whereſoever Love is, tho but as a Spark, ſhe ſoon ſpreads on the right hand, and on the left, behind and before; an Enemy as well as a Friend is welcom to her, yea, <note place="margin">Mat. 5. 44. Rom. 12. 20, 21. Coloſ. 3. 12. 1 Cor. 13. 4, 5, 7. Prov. 10. 12. Pſalm 34. 14.</note> ſhe entreats them to be at peace with her; ſhe remembreth no wrong, but <hi>covers</hi> all <hi>ſins,</hi> and <hi>ſeeks peace, and purſues it.</hi> VVhere<g ref="char:EOLhyphen"/>fore in imitation of her, I freely pardon without any Re<g ref="char:EOLhyphen"/>ſerve, any that may have ſaid any thing againſt me for want of that Love which I now feel in my heart, the Lord in his Mercy forgive them, as I deſire to be forgiven: For what are all the Injuries that Man can do to me all the days of my Life, in compariſon of one ſin committed a<g ref="char:EOLhyphen"/>gainſt my God, who daily loadeth me with his Benefits? Shall I have Ten thouſand Talents, yea Millions forgiven me by my Lord, and ſhall I think much to forgive an hun<g ref="char:EOLhyphen"/>dred Pence to my fellow Servant, to my poor Brother, or Siſter in the Fall? No ſure, I will rather pity him, and pray for him, <hi>than render evil for evil, and railing for railing.</hi> 
+               <note place="margin">1 Theſſ. 5. 15.</note> And as I by Love freely forgive all, ſo I deſire that all would forgive me, if at any time, I have ſaid or done any thing contrary to the Love I owe to all Mankind, and more eſpe<g ref="char:EOLhyphen"/>cially to thoſe that are of the Houſehold of Faith, by Inad<g ref="char:EOLhyphen"/>vertence, Undiſcreetneſs, or Raſhneſs occaſion'd by want of watchfulneſs.</p>
+            <p>The next thing that hath moved me to ſend theſe mean lines abroad, is, becauſe ſeveral thoughts have riſen in me, that this Year may probably prove my laſt, and therefore my Year of Jubilee, in which I ſhall be delivered and ſet free from the Bondage of Sin and Corruption, and return to my <hi>firſt Poſſeſſion and Family,</hi> which I have in God through Chriſt; wherefore ſeeing that I hope to be ſet free from my Bondage, I deſire alſo, as far as in me lyes, to ſet every one free, that throughout my whole Life, I have had
+<pb n="4" facs="tcp:135213:3"/>
+occaſion to converſe or deal with, that is, any who have judged hard of me, and have put a bad interpretation on my good will and purpoſe; I deſire, I ſay, to ſet them free, by forgiving and forgetting. For it is ſaid in the above quot<g ref="char:EOLhyphen"/>ed place of <hi>Leviticus, And ye ſhall hallow the Fiftieth Year</hi> (the Year of Jubilee) <hi>and proclaim Liberty throughout all the Land, unto all the Inhabitants thereof.</hi> If under the Law, God would have every one to proclaim Liberty to thoſe that were in Bondage, and that had alienated their Lands, to the end, they might return to their Fathers Inheritance; much more ought this to be done ſpiritually under the Goſ<g ref="char:EOLhyphen"/>pel, by celebrating a ſpiritual Jubilee, when the <hi>Trumpet</hi> of God's Love ſounds in our hearts, proclaiming pardon and forgiveneſs of Tranſgreſſions and Sins, by which we are ſet free, and inſpired in like manner to proclaim Liberty to all thoſe that may have Treſpaſt againſt us.</p>
+            <p>
+               <hi>The Trumpet of the Love of God ſounds from the Heart, firſt to God's People, and next to thoſe that are without, and may as yet ſtand in Enmity againſt them.</hi>
+            </p>
+            <p>Beloved <hi>Brethern</hi> and <hi>Siſters,</hi> with what words ſhall I ex<g ref="char:EOLhyphen"/>preſs that love which the Lord hath kindled in my Soul in a double meaſure towards you this <hi>NewYear?</hi> My thoughts are too ſhort, and my words too narrow, to diſplay before you the <hi>Burning Love</hi> which at this time flames in my heart towards you all; from which Love I once more, this <hi>New Year,</hi> do freely forgive and forget whatſoever hath been done amiſs to me, by any of my fellow Chriſtians, begging of God to ſet you free; as I my ſelf alſo deſire to be ſet free by you all, for any thing whereby I may have offended you, againſt the bent and inclination of my Soul, and that Spark of Love which is in it, which would not offend any one. Pray bear with my Repetitions; for it is <hi>from the abun<g ref="char:EOLhyphen"/>dance of the heart</hi> that my <hi>mouth ſpeaketh;</hi> and Love is <note place="margin">Mat. 12. 34.</note> never weary of ſhewing her good will to all Men.</p>
+            <p>This <hi>Divine Love</hi> and <hi>Charity</hi> is the true Principle of on Evangelical Life, without which no perſon can live ſo
+<pb n="5" facs="tcp:135213:3"/>
+as becomes the Goſpel of Chriſt. Of how great value there<g ref="char:EOLhyphen"/>fore is this <hi>love?</hi> Of whom we may ſay, as <hi>Solomon</hi> ſaith of Wiſdom, <hi>She is better than Rubies, and all the things that may he deſired, are not to be compared to her.</hi> 
+               <note place="margin">Prov. 8. 11.</note> Love is of ſuch an Attractive and Aſſimilative Vertue, that ſhe changeth all things, ſhe toucheth into her own Nature, ſhe is the true <hi>Philoſophers Stone,</hi> that changeth all baſer Mettals into <hi>Gold,</hi> 
+               <note place="margin">Mat. 13. 44, 45.</note> ſhe is the <hi>Pearl of great Price,</hi> and the <hi>Treaſure hid in the Field,</hi> in order to the purchaſing, of which the wiſe Mer<g ref="char:EOLhyphen"/>chant ſells all. <note place="margin">Epheſ. 3. 19. 1 John 4. 16.</note> Oh Love! Love! who can take thy di<g ref="char:EOLhyphen"/>menſions? who can comprehend thee? <hi>For God is Love, and he that dwelleth in Love, dwelleth in God, and God in him.</hi> Where this Love is not found, neither is God there; tho a Man ſhould ſhine never ſo glorious with all Parts, Gifts, and deep <note place="margin">Cor. 13. 2 Pet. 1. 1. Gal. 5. 6.</note> Learning, all would ſignifie nothing without this. Preti<g ref="char:EOLhyphen"/>ous <hi>Faith</hi> it ſelf is of no account, except it <hi>work by love.</hi>
+            </p>
+            <p>Wherefore, <hi>O Chriſtians,</hi> let us be led by this Spirit of Love, and readily obey the Commandment of our Lord, who ſaith, <hi>Love your Enemies, bleſs them that curſe you,</hi> &amp;c. <note place="margin">Matth. 5. 44.</note> And you that call your ſelves <hi>Proteſtants,</hi> and profeſs the ſame Religion, be entreated by the love of Chriſt, who died for <hi>All,</hi> to be Enemies to <hi>None,</hi> eſpecially of your own Brethren, that would fain live in love and peace with you. Why ſhould you <hi>fall out by the way?</hi> and be at va<g ref="char:EOLhyphen"/>riance <note place="margin">Gen. 45. 24.</note> with your Brethren that cannot comply with you in all things that you think lawful, and they may be ſo to you, tho not to them; <hi>for whatſoever is not of Faith is ſin.</hi> 
+               <note place="margin">Rom. 14. 2, 3, 4, 10, 11, 12, 13, &amp; 23.</note> 
+               <hi>One believeth that he may eat all things, and another who is weak eateth Herbs. Let none of you therefore judge his Brother,</hi> but rather bear with one another in love. They whoſe Hearts are ſincere, and truly love God, will never be angry with their Brethren, that are ſtronger, and ſee further than they do, or are more able to promote the Glo<g ref="char:EOLhyphen"/>ry of God, and the Good of their Neighbour than they are. The holy Man <hi>Moſes,</hi> when <hi>his Servant told him, that ſome of the People Propheſyed in the Camp,</hi> 
+               <note place="margin">Num. 11. 27, 28, 29.</note> was ſo far from being
+<pb n="6" facs="tcp:135213:4"/>
+jealous upon that account, that he rejoyced and ſaid, <hi>Would to God that all the People of the Lord were Prophets, and that the Lord would put his Spirit upon them.</hi> And the Apoſtle St. <hi>Paul</hi> declares, that tho there were <hi>ſome that preached</hi> 
+               <note place="margin">Phil. 1. 15. 18.</note> 
+               <hi>Chriſt, even of Envy, and Strife,</hi> yet that <hi>therein he rejoyced, and would rejoyce.</hi> We ſee how far different theſe holy Saints were from the Spirit of thoſe who are Envious at the Gifts of others, not to ſay worſe: For I would rather heal all Breaches, than make them wider; and with the Mantle of Love hide the nakedneſs of my Fathers and Brethren, and <hi>heap Coals</hi> of Divine Charity upon their heads, to melt their hearts, and to induce them to love the Lord, and his People. This is that which my Spirit groans for, to have all ſet at liberty by the Spirit of Love and Peace, that <hi>Bre<g ref="char:EOLhyphen"/>thren</hi> 
+               <note place="margin">Pſal. 133.</note> 
+               <hi>may dwell together in Unity.</hi> Nay, what is more, my Spirit groans for the whole Creation, that it may <hi>be de<g ref="char:EOLhyphen"/>livered</hi> 
+               <note place="margin">Rom. 8. 19. to 28.</note> 
+               <hi>from the Bondage of Corruption into the glorious liber<g ref="char:EOLhyphen"/>ty of the ſons of God;</hi> for through ſin it is made ſubject to Bondage and Miſery.</p>
+            <p>My Prayer is to Almighty God, who at firſt made this <hi>Univerſe</hi> ſo glorious, that he would be pleaſed to reſtore it to its firſt Beauty and Purity, as it was before the Fall; then <note place="margin">2 Pet. 3. 13.</note> ſhall the <hi>New Heaven</hi> and the <hi>New Earth</hi> appear, not only inwardly in Man, but alſo in the outward Creation, that we may once more ſee and enjoy the Divine Harmony be<g ref="char:EOLhyphen"/>tween Heaven and Earth, <hi>when the Morning Stars ſhall ſing</hi> 
+               <note place="margin">Job 38. 17. Iſa. 11. 9.</note> 
+               <hi>together, and all the ſons of God ſhout for joy.</hi> Then <hi>ſhall the Knowledge of the Lord cover the Earth, as Waters cover the</hi> 
+               <note place="margin">Iſa 30. 36.</note> 
+               <hi>Sea. And the Light of the Moon ſhall be as the Light of the Sun, and the Light of the Sun ſhall be ſeven fold, as the Light of ſeven days.</hi> But before this glorious Day appears, <hi>the Lord will debate with his People,</hi> and not <hi>with-hold his Rough</hi> 
+               <note place="margin">Iſa. 27. 8. 9.</note> 
+               <hi>Wind in the day of his Eaſt VVind,</hi> that he may winnow them from their Chaff; but all this will be only to make way for this Day, by <hi>purging away the Iniquity of</hi> Jacob, <hi>and taking away his ſin.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:135213:4"/>
+For we are not fit to be made Partakers of this <hi>Great Re<g ref="char:EOLhyphen"/>demption,</hi> 
+               <note place="margin">Act. 3. 19. 1 Cor. 6. 14.</note> which is the <hi>Time of Refreſhment,</hi> till this be done; for <hi>Light</hi> and <hi>Darkneſs</hi> cannot agree together, <hi>Holineſs</hi> and <hi>Sin</hi> cannot be inmates of the ſame Soul. Therefore, let us pray, that this <hi>New Year</hi> we may ſee the Deſtruction of Sin in us; tho we may, before this Work be accompliſh<g ref="char:EOLhyphen"/>ed, paſs through <hi>his Fire,</hi> which is in <hi>Zion,</hi> and endure his <hi>Furnace,</hi> which is in <hi>Jeruſalem.</hi> Wherefore, let none of <note place="margin">Iſa. 31. 9.</note> us flatter our ſelves ever to be delivered, ſave only this way; for the Lord <hi>will throughly purge his Floor.</hi> There is <note place="margin">Luk. 3. 17.</note> a <hi>Purifying VVork,</hi> muſt go before the <hi>Times of Refreſhment:</hi> 
+               <note place="margin">Mat. 3. 2, 1.</note> And therefore let us all turn inwards, judging our ſelves, &amp; ſearching our own hearts before the Lord comes to judge and ſearch us; and let us not cry, <hi>Peace, Peace,</hi> as long as we go on in a Courſe of ſinning without Controle, but let us rather reſolve, in the ſtrength of the Lord to fight this Man of Sin, <hi>reſiſting</hi> even <hi>unto Blood.</hi> Let us this <hi>New</hi> 
+               <note place="margin">Heb. 12. 4.</note> 
+               <hi>Year</hi> engage in this holy Warfare more couragiouſly than ever; let us fight againſt ſin not only now and then, but at all times, and in all places; and againſt all manner of ſins, whether Bodily or Spiritual, which are more hid. Let us remember, that we are <hi>Christians,</hi> who by their <hi>Baptiſm,</hi> are engaged <hi>to fight againſt the world, the fleſh, and the De<g ref="char:EOLhyphen"/>vil.</hi> This is our Holy Calling and Employment, to fight reſolutely and and conſtantly againſt theſe three Potent Enemies. Wherefore, we have great need to be continu<g ref="char:EOLhyphen"/>ally upon our Watch, and to put on the <hi>whole Armour of God,</hi> and never put it off: <note place="margin">Eph. 6. 11.</note> For it is not with this Spiritual Warfare, as it is with that of the world, where Soldiers have their Winter-Quarters allow'd them to take their Reſt; for Chriſtians from the firſt moment that they are liſted under the Captain of their Salvation, and have their eyes opened to ſee their Spiritual Enemies, <note place="margin">Eph. 6. 12.</note> begin that fight, which is never to ceaſe, till the laying down of the Body: <note place="margin">Iſaiah 45. 24.</note> but with his Armour, and in his Strength, for he is the Lord, in whom is our ſtrength.</p>
+            <div type="part">
+               <pb n="8" facs="tcp:135213:5"/>
+               <head>MEDITATION.</head>
+               <p>THis is that, O my Soul, which thou muſt reſolve up<g ref="char:EOLhyphen"/>on this <hi>New Year,</hi> together with all the Children of God, even to <hi>fight the good Fight:</hi> And having once <hi>put our hand to the Plough, we muſt not look back.</hi> The way is <note place="margin">1 Cor. 9. 24. Luke 9. 60.</note> narrow and difficult, but it is only ſo to ſinful ſelf, which muſt be deſtroyed; for to the Soul that is renew<g ref="char:EOLhyphen"/>ed by Grace; <hi>All the ways of God are Pleaſantneſs, and all his Paths are Peace.</hi> This is that Path, O my Soul, in <note place="margin">Prov. 3. 17.</note> which thou muſt walk this Year, and all the reſt of thy Life, here in this mortal Body. Faint not, but be of good Courage, <hi>be ſtrong in the Lord, and in the Power of his might:</hi> For he hath ſaid, <note place="margin">Eph. 6. 10 Joſh. 1. 5.</note> 
+                  <hi>I will never leave thee, nor forſake thee; Be not diſmayed, neither be thou afraid,</hi> O my Soul, <hi>for the Lord thy God is with thee.</hi> 
+                  <note place="margin">Heb. 13. 5. Joſh. 1. 9. Job 5. 19.</note> And, <hi>he will deliver thee in ſix troubles, yea in ſeven, there ſhall no evil touch thee.</hi> Believe it, O my Soul, <note place="margin">Pſalm 56. 4, 11.</note> it is the Word of thy God: <hi>In God have I put my truſt, I will not fear what fleſh can do unto me:</hi> No, nor what the Devil and all the Powers of Hell can do againſt me. I muſt expect, that the nearer I come to my Journeys end, the more violent and ſharp the Combate will be; Sa<g ref="char:EOLhyphen"/>tan will be loath to quit his hold of me, without making his laſt, and moſt terrible Aſſault. From my very Youth up, the Lord hath made known ſomething of the hatred of that <hi>Roaring Lion</hi> againſt my Soul: But now I am in good earneſt and ſtrong deſire, to overcome all his Temp<g ref="char:EOLhyphen"/>tations, and Wiles, he will attack me with greater force and cunning than ever: But my God, I truſt, will fight the Battel for me, and <hi>I ſhall be more than Conqueror, through Chriſt that loved me, and gave himſelf for me,</hi> that I in his Conqueſt ſhould triumph over the <hi>World,</hi> the <hi>Fleſh,</hi> and the <hi>Devil.</hi>
+               </p>
+               <p>Bleſſed be my God and Father in Chriſt Jeſus, that he hath opened my Spiritual Eye, the beginning of this <hi>New</hi> 
+                  <note place="margin">Luke 11. 13.</note> 
+                  <hi>Year</hi> more than heretofore, to ſee what is required of me, and hath promiſed me his Holy Spirit, who will enable me to perform it.</p>
+               <p>
+                  <pb n="9" facs="tcp:135213:5"/>
+Chriſtian People and Friends, help and aſſiſt me in this my undertaking by your earneſt Prayers, for I am come to the laſt Quarter of my Life, the Winter of my Age; yea, and if I miſtake not, I am come to the laſt hour of my day; therefore great need have I to double my Diligence in working in the Vineyard of my Lord, ploughing up the Fallow Ground of my heart, and caſting out the Stones of Unbelief, and plucking up the <hi>Roots of Bitterneſs,</hi> and <hi>Weeds of Corrupt Nature?</hi> And to reſolve with my ſelf in the ſtrength of my God, <hi>to lay aſide every weight,</hi> and <hi>the ſin</hi> 
+                  <note place="margin">Heb. 12. 1, 2.</note> 
+                  <hi>that doth ſo eaſily beſet us, &amp;c.</hi> that I may be ſimple and naked in the ſight of my God, that neither my corrupt Na<g ref="char:EOLhyphen"/>ture, nor any Creature, may draw my Soul any more from him, but that he may work in it how and whatſoever he pleaſeth, till he have purged and purified it, <hi>to be a meet</hi> 
+                  <note place="margin">2 Cor. 6. 16.</note> 
+                  <hi>Habitation for his holy Majeſty,</hi> that I may now more than ever, experimentally know, what it is to have <hi>God walk in me,</hi> and <hi>dwell in me,</hi> that ſo the latter <hi>end</hi> of my <hi>life</hi> may be better than the <hi>beginning.</hi>
+               </p>
+               <p>O that this Deſire and Longing may not only be wrought in me, and thoſe that are as low in grace as I am, but alſo in thoſe that are Men in Chriſt, and old Diſciples, for a greater manifeſtation of Chriſt in them, by an exemplary Holineſs in all manner of Converſation; and that they may be enabled to bring much Glory to God, by improving their Talents to a double encreaſe, and by doing all their <hi>works</hi> from the <hi>Motive</hi> of <hi>Divine Love</hi> and <hi>Charity.</hi> The more we <hi>love</hi> the more we <hi>work,</hi> and the leſs we <hi>love,</hi> the <note place="margin">John 14. 23, 24.</note> leſs we <hi>work. If you love me,</hi> ſaith our Bleſſed Lord, <hi>keep my Commandments.</hi> And the <hi>Beloved Diſciple</hi> aſſures us, <hi>That this is the love of God, if we keep his Commandments.</hi> And the <note place="margin">1 John 5. 3.</note> farther we advance in this love, the more we ſhall find, that <hi>his Commands are not grievous.</hi>
+               </p>
+               <p>This <hi>Love</hi> is <hi>All,</hi> O my Soul, and whoſoever hath it, cannot want any thing; it is the want of this that makes <hi>Obedience</hi> to the Will of God <hi>difficult</hi> to us, and makes us apt to com<g ref="char:EOLhyphen"/>plain
+<pb n="10" facs="tcp:135213:6"/>
+of the want of outward things. For if we had Love, <note place="margin">1 John 4. 16. 1 Cor. 3. 21, 22.</note> we ſhould have God, and having God, ſhould have <hi>all things.</hi> O that this <hi>New Year</hi> we might be made Poſſeſſors of <hi>all things,</hi> in this <hi>one thing love:</hi> For in it we ſhall have true Repentance, deep Humility, ſtrong Faith, total Reſignati<g ref="char:EOLhyphen"/>on, continual Self-denial, with all long Suffering and Cha<g ref="char:EOLhyphen"/>rity towards all Men; and all other Graces that are compre<g ref="char:EOLhyphen"/>hended in this word Love, which reſtores the Image of God in the Soul. And ſeeing God hath ſpared us another Year, we are now to double our Endeavours, with earneſt Prayer to obtain all theſe Graces, and the rather, becauſe his Judg<g ref="char:EOLhyphen"/>ments abroad, and his long Suffering with us at home, ſeem to call for it.</p>
+               <p>But what need I to ſay any more, ſince you all know this, and perform it alſo, I hope, better than I do; only it was ſtrongly impreſt upon my mind, to burſt forth into theſe broken words to my Betters and Equals, for <hi>Inferiours I know none,</hi> as being the leaſt of thoſe that have received any Spark of true Grace, yet am forced to caſt in my <hi>Mite</hi> in<g ref="char:EOLhyphen"/>to the <hi>Treaſury.</hi> The Lord knows for what end he makes uſe of ſuch a poor Inſtrument! Yet, if the leaſt Glory may thereby accrue to God, and his Children may get any good by it, it is enough, I have obtained my end, and my deſire of ſo many Years ſtanding; I have ſatisfyed my Mind, and eas'd my Heart, and now ſhall die in Peace; hoping that this my Talent, by the Bleſſing of God upon it, and your Prayers, may be encreaſed to two, at the laſt Day, when the Lord ſhall ſay, <hi>Well done, good and faithful Servant, enter</hi> 
+                  <note place="margin">Mat. 25. 21.</note> 
+                  <hi>into the joy of thy Lord. Amen.</hi> Lord, ſo be it. <hi>Hallelujah.</hi>
+               </p>
+               <p>What ſhall I ſay to you, my <hi>Fellow Chriſtians,</hi> and <hi>Men of Good Will,</hi> who truly fear God, tho you differ in Judgment; and what ſhall I wiſh you this <hi>New Year,</hi> but that you may all agree in one, to ſerve the Lord <hi>in Spirit and in Truth,</hi> and <note place="margin">Rom. 7. 6.</note> not in the oldneſs of the <hi>Letter;</hi> that you may be all built up into an <hi>Holy Temple</hi> for Chriſt to dwell in, and become a <hi>Royal Priſthood,</hi> partakers of the Bleſſings of the Prieſts
+<pb n="11" facs="tcp:135213:6"/>
+and Levites of Old, in the Spirit. And herewith I ſhall end this my <hi>New Years Gift,</hi> turning theſe my Wiſhes into Prayers to God for you all: <note place="margin">Deut. 33. 11.</note> 
+                  <hi>Bleſs Lord his Subſtance, and accept the Work of his hands, ſmite through the Loins of them that riſe againſt him, and of them that hate him, that they riſe not a<g ref="char:EOLhyphen"/>gain. The Lord hear thee in the day of Trouble; the Name of the God of</hi> Jacob <hi>defend thee;</hi> 
+                  <note place="margin">Pſ. 20. 1, 2.</note> 
+                  <hi>ſend thee help from the Sanctua<g ref="char:EOLhyphen"/>ry, and ſtrengthen thee out of Zion.</hi>
+               </p>
+               <p>O <hi>England,</hi> live for ever, but let no more Enmity live in the midſt of thee. <hi>Behold how good, and how pleaſant it is, for Brethren to live together in Unity.</hi> 
+                  <note place="margin">Pſ. 133. 1.</note> This is the way to bring that Bleſſing upon thee mentioned by the Prophet, when he ſaith, <hi>Surely his Salvation is nigh them that fear him, that Glory</hi> 
+                  <note place="margin">Pſalm 85. 9, 10, 11, 12.</note> 
+                  <hi>may dwell in our Land. Mercy and Truth ſhall meet together, Righteouſneſs and Peace ſhall kiſs each other. Truth ſhall ſpring out of the Earth, and Righteouſneſs ſhall look down from Heaven. Yea, the Lord ſhall give that which is good, and our Land ſhall yield her Increaſe.</hi> Amen. Lord, let this be the Portion of <hi>England,</hi> yea, of thy whole Church, all the World o<g ref="char:EOLhyphen"/>ver. <hi>Amen. Hallelujah.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A</hi> NOSEGAY <hi>preſented by the Hand of Love, to all the Well-wiſhers of</hi> ZION.</head>
+               <p>WAlking in the <hi>Paradiſical Garden</hi> of the <hi>Scriptures,</hi> I have gathered here and there ſeveral Flowers to preſent to you that are Well-wiſhers of <hi>Zion,</hi> and that <hi>pre<g ref="char:EOLhyphen"/>fer Jeruſalem above your chiefeſt Joys;</hi> 
+                  <note place="margin">Pſal. 137. 6. Mic. 6. 8. 2 Pet. 1. 5, 6, 7. 1 Cor. 13. 4, 5, 6. Gal. 5. 22, 23, 24. James 3. 17, 18. Cant. 1.</note> that you may all this <hi>New Year,</hi> and many more, ſmell the moſt ſweet and re<g ref="char:EOLhyphen"/>freſhing Odour of this <hi>Noſegay</hi> of <hi>Divine Graces</hi> (which the whole Scripture, eſpecially thoſe places in the Margent point to) ſpringing up in you, in the life and power of them. But above all thoſe other Flowers which breath ſweetneſs and life, let me recommend to you and my ſelf, <hi>the Roſe of</hi>
+                  <pb n="12" facs="tcp:135213:7"/>
+Sharon, and <hi>the Lilly of the Valleys.</hi> Theſe are the Flowers that will revive and quicken you in the time of Deadneſs, refreſh and comfort you in the time of Trouble, and ſweet<g ref="char:EOLhyphen"/>en you in Bitterneſs and Anguiſh. This <hi>Roſe</hi> will tincture all the Faculties and Powers of your Souls, with its Holy Fire and Redneſs; and this <hi>Lilly of the Valley</hi> will perfume you throughout, with its ſweet Meekneſs and Innocence; the one will make you all flaming with the <hi>Divine Love,</hi> the other will procure you the <hi>ornament of a meek Spirit,</hi> and deep Humility, which in the ſight of God, are of great price. <note place="margin">2 Pet. 1. 4.</note> In a word, they will make you Partakers of the Na<g ref="char:EOLhyphen"/>ture of Chriſt; the <hi>Roſe</hi> repreſenting his <hi>Divine Nature,</hi> and the <hi>Lilly</hi> his <hi>Holy Humanity.</hi>
+               </p>
+               <p>Surely, Beloved, you that <hi>ask the way to Zion, with your faces thitherward,</hi> who <hi>take pleaſure in her Stones, and favour her Duſt,</hi> 
+                  <note place="margin">Jer. 50. 5. Pſ. 132. 14.</note> will fall in love with this <hi>Noſegay,</hi> as ſoon as you begin to perceive the ſweet Odour of it, the Power and Spi<g ref="char:EOLhyphen"/>rit thereof will tranſport you ſo, as that you will hardly know where you are, by reaſon of the ſurpaſſing ſweetneſs and comfort this <hi>Roſe</hi> and <hi>Lilly</hi> will afford you. If that Wo<g ref="char:EOLhyphen"/>man in the <hi>Goſpel</hi> receiv'd Vertue from <hi>a Touch only of Chriſts Garment,</hi> for the cure of her inveterate <hi>Malady,</hi> what will not your Souls find in this ſweet <hi>Roſe of</hi> Sharon, in this hum<g ref="char:EOLhyphen"/>ble <hi>Lilly of the Valleys?</hi> What Diſeaſes, what Evil can ſtand againſt this powerful Antidote? this Divine Mixture and Compoſition of <hi>Red</hi> and <hi>White,</hi> of the <hi>Divine</hi> and <hi>Humane Nature?</hi> The Divine conveighing the ſtrong force of Love, and the Humane ſweet Meekneſs, and lovely Humility. Strong Faith, and earneſt Longing after this Divine Nature, will make all that is his to be yours: For, <hi>he is made unto us Wiſdom and Righteouſneſs, and Sanctification and Redemp<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>Hear therefore, ye that <hi>go from ſtrength to ſtrength in Zion,</hi> 
+                  <note place="margin">Pſ. 84. 7.</note> the Voice of your Beloved calling upon you, <hi>Riſe up my</hi> 
+                  <note place="margin">Cant. 2. 10.</note> 
+                  <hi>Love, my Fair One, and come away.</hi> Come away from <hi>Vanity;</hi> come away from <hi>Gain</hi> and <hi>Profit;</hi> yea, come away from all
+<pb n="13" facs="tcp:135213:7"/>
+things that ſteal away thy heart from me, and bid an eter<g ref="char:EOLhyphen"/>nal Farewell to all the love of the World; and <hi>let me ſee</hi> 
+                  <note place="margin">Cant. 2. 14.</note> 
+                  <hi>thy countenance,</hi> and <hi>let me hear thy voice;</hi> for then <hi>ſweet</hi> ſhall be <hi>thy voice to me,</hi> and <hi>thy countenance comely.</hi> Yea, <hi>I will ne<g ref="char:EOLhyphen"/>ver leave thee nor forſake thee: I will be unto thee All Things:</hi> 
+                  <note place="margin">Hebr. 13. 5.</note> 
+                  <hi>Thou ſhalt taſte of my ſweetneſs, and be refreſhed with the water of life, which I will give thee, if thou wilt continue and perſevere</hi> 
+                  <note place="margin">Mat. 10. 38. Mark 8. 34. Hebr. 12. 5. 10. Luke 22. 30. Rev. 3. 21.</note> 
+                  <hi>in my ways; Denying thy ſelf, and taking up thy Croſs daily, and following me; and taking patiently my fatherly correction of thee, ſeeing that my only aim therein, is to make thee Partaker of my Holineſs.</hi> And <hi>after I have thus fitted and prepared thee, thou ſhalt eat and drink at my Table, in my Kingdom:</hi> For <hi>to him that overcometh, will I give to ſit with me in my Throne; even as I alſo overcame, and am ſet down with my Father in his Throne.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>PRAYER.</head>
+               <p>O Sweet <hi>Roſe of Sharon,</hi> that haſt been dyed in thine <note place="margin">Iſaiah 63. 1.</note> own Blood, to take away the Spots of Sin, that had ſtained all Mankind, have mercy on my Soul, that is all over defiled by Original and Actual Sin; and waſh me in that pretious Blood of thine, wherewith thou waſt cover'd all over, in the Garden, and on the Croſs. O let me never forget that inconceivable Love of thine, which made thee <hi>willingly to bear the Cruelty of Man, the rage of Hell, and the</hi> 
+                  <note place="margin">Rom. 6. 14.</note> 
+                  <hi>wrath of thy Father, to deliver me from the Infernal Pit, and from the ſlavery of Sin,</hi> which is the worſt of the two; <hi>for ſin is the cauſe of Hell.</hi> Oh, what ſhall I ſay of thy Love! Oh that I might expreſs it in my whole life! O Lord, thou knowſt, I can do nothing, no, not ſo much as think a good thought, but <hi>all my ſufficiency is of thee;</hi> who haſt ſaid by <note place="margin">2 Cor. 3. 5. Ezek. 36. 27.</note> thy Prophet, <hi>I will put my Spirit within you, and cauſe you to walk in my statutes, and ye ſhall keep my Judgments, and do them.</hi> Lord, increaſe my Faith, that I may ask without doubting the fulfilling of this Promiſe, and all other thou haſt given to thy Church, to uphold her in her Wilderneſs Condition,
+<pb n="14" facs="tcp:135213:8"/>
+where the <hi>World,</hi> the <hi>Fleſh,</hi> and the <hi>Devil</hi> fight againſt her. Sweeteſt <hi>Jeſu,</hi> thou who haſt ſaid, <hi>Ask, and it ſhall be</hi> 
+                  <note place="margin">Mat. 7. 7.</note> 
+                  <hi>given you, ſeek, and ye ſhall find,</hi> give me to ask by fervent Pray<g ref="char:EOLhyphen"/>er, and <hi>ſeek</hi> by diligent Endeavour, thy Holy Spirit, who may enable me to anſwer thy love towards me, that I may begin this <hi>New Year,</hi> to live more to the glory of thy Name, and the Edification of my Neighbour, than ever heretofore. Comfort me with thy ſtrong Perfumes, thou <hi>Roſe of Sha<g ref="char:EOLhyphen"/>ron</hi> 
+                  <note place="margin">Mat. 11. 29.</note> refreſh me with the ſweet ſent of thy Meekneſs and Humility, thou <hi>Lilly of the Valley!</hi> Adorn me with the Power of thy <hi>Love,</hi> and the ſweetneſs of thy <hi>Innocence,</hi> that my Life and Converſation may be ſo lovely in the ſight of others, that they may be led to thee, by thy Grace and Gifts to me. <hi>Amen.</hi>
+               </p>
+               <p>
+                  <hi>Beloved,</hi> ye that <hi>follow on to know the Lord,</hi> this is the <hi>Noſe<g ref="char:EOLhyphen"/>gay</hi> the Spirit hath cauſed me to gather for you; and which I preſent to you the beginning of this <hi>New Year.</hi> Which if you ſhall wear in your Lives and Converſations, the ſweet<g ref="char:EOLhyphen"/>neſs <note place="margin">Rom. 13. 14.</note> thereof will make you truly happy, both in this life, and that which is to come. There is ſuch tranſcendent ſweetneſs in it, that not only you that wear it, ſhall be ſweet<g ref="char:EOLhyphen"/>ned and perfumed thereby; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> likewiſe, all that come near you, will be in love with this <hi>Roſe of Sharon,</hi> and <hi>Lilly of the Valley,</hi> and ſhall know that your <hi>Beloved</hi> is more than another <hi>Beloved;</hi> &amp; ſeeing he is ſo incomparably, lovely we alſo ought to love him above the rate of other Lovers, and be more careful and circumſpect in all our Thoughts, <note place="margin">1 Pet. 4. 7, 8. Mat. 12. 36. Epheſ. 5. 5.</note> Words, and Actions, than others, that it may appear to all, that we always carry this <hi>Noſegay</hi> about with us, which is compoſed of all the ſweet and fair Flowers of <hi>Paradiſe, viz.</hi> the Graces of God's Spirit, which are the <hi>Virgins</hi> con<g ref="char:EOLhyphen"/>ſtantly attending the <hi>King's Daughter,</hi> who <hi>is all glorious</hi> 
+                  <note place="margin">Pſalm 45. 13.</note> 
+                  <hi>within.</hi>
+               </p>
+               <p>The Letter of the Scripture pointing us to theſe Divine <note place="margin">Mat. 26. 7. Mark 14. 3.</note> Graces, is like the <hi>Alabaſter Box,</hi> fill'd with pretious Oint<g ref="char:EOLhyphen"/>ment,
+<pb n="15" facs="tcp:135213:8"/>
+whoſe very outſide doth not want its Beau<g ref="char:EOLhyphen"/>ty and Fragrancy: But when the <hi>Box</hi> is broken, and the <hi>Spiknard</hi> poured out, than it is quite ano<g ref="char:EOLhyphen"/>ther thing; <hi>for the whole Houſe is filled with Perfume of the Ointment:</hi> So when the Spirit opens the Letter in us, then the ineffable Sweetneſs of the <hi>Name</hi> of <hi>God,</hi> which <hi>is as Oint<g ref="char:EOLhyphen"/>ment</hi> 
+                  <note place="margin">Cant. 1. 3.</note> 
+                  <hi>poured forth,</hi> diffuſeth it ſelf every where, and fills the whole Houſe of the Soul and Spirit, yea, and of the Body too. But before we can attain to this Spiritual Knowledge, <hi>our Old Man muſt be crucified with Chriſt, that the Body of Sin</hi> 
+                  <note place="margin">Rom. 6. 6.</note> 
+                  <hi>may be deſtroyed, and we no longer ſerve ſin.</hi> And when we are thus made one with him in his Death, we ſhall alſo be made one with him in his Reſurrection. And if we make it our buſineſs this <hi>New Year,</hi> and all the reſt of our Life, to enter into the <hi>Death</hi> and <hi>Reſurrection</hi> of our Lord, then the ſweet Odour of this <hi>Divine Noſegay,</hi> and the pre<g ref="char:EOLhyphen"/>tious Perfume of the <hi>Ointment,</hi> will make the <hi>Virgins</hi> in love with our <hi>Beloved, and make them ſeek him together with</hi> 
+                  <note place="margin">Cant. 6. 1.</note> 
+                  <hi>us.</hi> Be it ſo, O Lord.</p>
+               <closer>Amen. Hallelujah.</closer>
+            </div>
+            <div type="prayer">
+               <head>
+                  <hi>The Concluſion of this</hi> New-Years-Gift, <hi>by</hi> PRAYER.</head>
+               <p>O Moſt holy God, whoſe <hi>Thoughts are not as our Thoughts, nor thy Ways like our Ways; for as the Heavens are</hi> 
+                  <note place="margin">Iſaiah 55. 5.</note> 
+                  <hi>higher than the Earth, ſo are thy Ways above our Ways, and thy Thoughts above our Thoughts,</hi> &amp;c. Thou doſt manifeſt this Truth in me this Day: For who wou'd think, that the Lord ſhould humble himſelf, to viſit a poor ſinful Worm, and to ſpeak in and through it, to the Glory of his great <hi>Name.</hi> Thou ſheweſt thy ſelf, O Lord, to be no <hi>Reſpecter of Perſons,</hi> and that thou canſt work by the moſt weak and deſpicable Means, and that the Veſſel is nothing, and has nothing that is <hi>Good,</hi> but what it receives <hi>from above.</hi> I <note place="margin">Jam. 1. 17.</note>
+                  <pb n="16" facs="tcp:135213:9" rendition="simple:additions"/>
+humbly entreat thee, O Heavenly Father, in the Name and Merits of my pretious Redeemer, to own what is of <hi>Thee</hi> in this Writing, to <hi>bleſs</hi> it, and make it <hi>proſper.</hi> O thou who ſearcheſt the Hearts and the Reins! thou knowſt I have no other aim in the publiſhing of it, but only thy Glory: Yet, ſince <hi>the heart is deceitful above all things, and deſperate<g ref="char:EOLhyphen"/>ly wicked,</hi> 
+                  <note place="margin">Jer. 17. 9.</note> if there ſhould be any ſiniſter end, lurking in my Heart, <hi>Lord,</hi> diſcover it unto me, and nail it to the Croſs of thy Son; for through thy Grace, I utterly deteſt and ab<g ref="char:EOLhyphen"/>hor it. Wherefore, I am bold, moſt glorious God, Father, Son, and Spirit, to implore thy Bleſſing upon this <hi>New-Born Babe.</hi> O Lord, thou knoweſt, that from my Youth, thou haſt made me conceive a longing deſire, to ſend forth a few Lines (were it poſſible) throughout all the World, to incite all Mankind to love thee; and this longing Deſire hath ſtill grown in me, till at laſt thy rich Mercy and free Grace, hath made me to bring it forth in my Old Age.</p>
+               <p>Wherefore gracious Lord, be pleaſed to take this <hi>New Birth</hi> into thy Protection, againſt the many Oppoſitions it ſhall meet with from thoſe that reject every thing that hath not the Ornament of Learning and Eloquence; and do thou cover this ſimple <hi>Naked Child,</hi> with the Garment of thy Bleſſing, that it may be received into the hearts of <hi>Men of Good Will,</hi> of what Perſuaſion ſoever. O Lord, my God, thou didſt command the Children of <hi>Iſrael</hi> to <hi>Offer</hi> to thee their <hi>Firſt-born,</hi> accordingly, I here offer unto thee <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Firſt Born.</hi> The Conception <note place="margin">Exod. 22. 29.</note> is thine, the Birth is thine. Let not the De<gap reason="illegible" resp="#UOM" extent="4+ letters">
+                     <desc>••••…</desc>
+                  </gap>nt it hath contracted in the Womb of my Soul, hinder thy Bleſſing upo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, nor any of my Sins and Tranſgreſſions, but let them all be waſhed away in that <hi>Foun<g ref="char:EOLhyphen"/>tain</hi> 
+                  <note place="margin">Zech. 13. 2.</note> 
+                  <hi>which is opened to the Houſe of</hi> David, <hi>&amp;c. for Sir and for Unclean<g ref="char:EOLhyphen"/>neſs.</hi> Let all theſe <hi>Egyptians</hi> he drowned in the <hi>Red S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> of my Saviours Blood, and let me hear the ſame comfortable Promiſe, thou madeſt to the Children of <hi>Iſrael</hi> by the mouth of <hi>Moſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>; The Egyptians whom ye have ſeen to day, ye ſhall ſee them again no <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ore forever.</hi> The Sins that have purſued you all your Life time, you ſhall never ſee them any more having the Dominion over you; and if I leave any <hi>Canaanites</hi> in the Land, it is only to keep you humble; and that you may know that the Land is mine, and that it is I that fight for you againſt your Enemies, and will do ſo till your laſt Breath. Amen. Lord, ſo be it. <hi>Hallelujuh.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Whitledge</hi> over againſt the <hi>Hatt</hi> and <hi>Feather,</hi> on <hi>Addle-hill,</hi> near <hi>Doctors-Commons,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
